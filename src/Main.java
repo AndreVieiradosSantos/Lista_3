@@ -39,6 +39,6 @@ public class Main {
                         break;
                 }
 
-        }while (escolha>0&&escolha<4);
+        }while (escolha>0 && escolha<4);
     }
 }
